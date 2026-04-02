@@ -327,7 +327,17 @@ For issues, questions, or suggestions, please create an issue in the repository.
 - Built with Express.js and modern web technologies
 - Powered by Large Language Models
 - Inspired by accessible healthcare technology
+# Healthcare Symptoms Analyzer
 
+A web-based application that analyzes user symptoms and suggests possible conditions.
+
+## 👨‍💻 Author
+Ajay Singh
+
+## 🚀 Features
+- Symptom input
+- Condition prediction
+- Simple UI
 ---
 
 **Last Updated**: March 2026
